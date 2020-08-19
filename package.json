@@ -1,0 +1,22 @@
+{
+  "name": "pensando_bot",
+  "version": "1.7.5",
+  "description": "so um bot que da rt em tweets que tenha a palavra pensando",
+  "main": "./config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayeedwin/twitterbot"
+  },
+  "keywords": [
+    "bot",
+    "twiiter bot"
+  ],
+  "author": "@fakesmiletoo",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
